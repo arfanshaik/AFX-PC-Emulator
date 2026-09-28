@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/preview.svg" alt="AFX-PC-Emulator preview" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/features.svg" alt="AFX-PC-Emulator features" width="100%" />
+</p>
+
 # AFX Emulator Booster
 
 A clean, lightweight Windows utility for launching supported Android emulators with practical performance presets.
