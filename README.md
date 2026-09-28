@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/preview.svg" alt="AFX-PC-Emulator preview" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/features.svg" alt="AFX-PC-Emulator features" width="100%" />
+  <img src="assets/website-preview.svg" alt="AFX Emulator Booster website preview" width="100%" />
 </p>
 
 # AFX Emulator Booster
